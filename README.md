@@ -15,7 +15,7 @@ I'm a junior developer. I love making tiny tools, cute projects, and anything fu
 - React
 
 ## ✨ What I plan to learn next | 之后打算学什么
-Maybe it’s related to AI?  
+Maybe something related to AI?  
 或许是与AI有关的吧？  
 
 ## 💬 Let's chat! | 一起聊天吧！
