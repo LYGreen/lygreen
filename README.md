@@ -19,7 +19,7 @@ Maybe something related to AI?
 或许是与AI有关的吧？  
 
 ## 💬 Let's chat! | 一起聊天吧！
-Discord: ly_green
+Discord: ly_green (Unluckily and sadly, I'm actually a boy)
 
 ## The End... | 最后...
 Thank you very much!  
