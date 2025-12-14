@@ -19,7 +19,8 @@ Maybe something related to AI?
 或许是与AI有关的吧？  
 
 ## 💬 Let's chat! | 一起聊天吧！
-Discord: ly_green (Unluckily and sadly, I'm actually a boy)
+Discord: ly_green (Unluckily and sadly, I'm actually a boy)  
+[Send me anonymous comments | 向我发送匿名评论](https://lygreen.github.io/anonymous-comment/)  
 
 ## The End... | 最后...
 Thank you very much!  
