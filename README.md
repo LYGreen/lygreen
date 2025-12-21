@@ -8,6 +8,11 @@ I'm a junior developer. I love making tiny tools, cute projects, and anything fu
 - HTML/CSS/Javascript
 - Vue3
 - Python
+- Relational database
+- Linux
+- [Basic] Network: OpenWRT, STUN, Port forwrding
+- [Basic] Operating System
+- [Basic] Game Dev
 
 ## 🌱 Currently learning | 正在学习
 - Full Stack
@@ -15,8 +20,8 @@ I'm a junior developer. I love making tiny tools, cute projects, and anything fu
 - React
 
 ## ✨ What I plan to learn next | 之后打算学什么
-Maybe something related to AI?  
-或许是与AI有关的吧？  
+Maybe something related to AI? And also hardware.  
+或许是与AI有关的吧？还有硬件部分。  
 
 ## 💬 Let's chat! | 一起聊天吧！
 Discord: ly_green (Unluckily and sadly, I'm actually a boy)  
